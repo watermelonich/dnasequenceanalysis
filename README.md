@@ -14,6 +14,7 @@ This simple DNA sequence analysis script allows you to analyze DNA sequences and
 
    ```
    python dnaseqanalysis.py
+   ```
    
 View the analysis results in the terminal. The script will print out properties like nucleotide counts, GC percentage, and more.
 The results are also saved in the output.txt file.
@@ -32,6 +33,7 @@ If you have a DNA sequence "AGCTAGCTAG", place it in dnadata_input.txt and run t
   Number of purines: 6.00
   Number of pyrimidines: 4.00
   Percentage of purines: 60.00
+  ```
 
 ** Note: This project is a simplified version for demonstration purposes and doesn't require any external dependencies or virtual environments.
 
