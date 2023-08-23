@@ -19,12 +19,13 @@ This simple DNA sequence analysis script allows you to analyze DNA sequences and
 View the analysis results in the terminal. The script will print out properties like nucleotide counts, GC percentage, and more.
 The results are also saved in the output.txt file.
 
-**Files
+# Files:
+
 1. dna_sequence_analysis.py: The main script for analyzing DNA sequences.
 2. dnadata_input.txt: Input file containing the DNA sequence to be analyzed.
 3. output.txt: Output file containing the analysis results.
 
-**Example:
+# Example:
 If you have a DNA sequence "AGCTAGCTAG", place it in dnadata_input.txt and run the script. You'll see results similar to:
 
   ```
@@ -35,7 +36,7 @@ If you have a DNA sequence "AGCTAGCTAG", place it in dnadata_input.txt and run t
   Percentage of purines: 60.00
   ```
 
-**Note: This project is a simplified version for demonstration purposes and doesn't require any external dependencies or virtual environments.
+# Note: This project is a simplified version for demonstration purposes and doesn't require any external dependencies or virtual environments.
 
 ## Contributing
 
